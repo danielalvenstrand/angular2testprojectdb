@@ -3,19 +3,38 @@ var note = require('./models/note');
 module.exports = {
   configure: (app) => {
 
-    app.get('/note/', (req, res) => {
+    // ALLOW CROSS DOMAIN - REMOVE WHEN PUBLIC
+    var allowCrossDomain = function(req, res, next) {
+      res.header('Access-Control-Allow-Origin', "*");
+      res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
+      res.header('Access-Control-Allow-Headers', 'Content-Type');
+      next();
+    }
+
+    app.use(allowCrossDomain);
+
+    // GET ALL NOTES
+    app.get('/api/note/', (req, res) => {
       note.get(res);
     });
 
-    app.post('/note/', (req, res) => {
+    // GET SINGLE NOT
+    app.get('/api/note/?:id/', (req, res) => {
+      note.get(res,req.params.id);
+    });
+
+    // ADD NOTE
+    app.post('/api/note/', (req, res) => {
       note.create(req.body, res);
     });
 
-    app.put('/note/', (req, res) => {
+    // UPDATE NOTE
+    app.put('/api/note/', (req, res) => {
       note.update(req.body, res);
     });
 
-    app.delete('/note/:id/', (req, res) => {
+    // DELETE NOTE
+    app.delete('/api/note/:id/', (req, res) => {
       note.delete(req.params.id, res);
     });
 

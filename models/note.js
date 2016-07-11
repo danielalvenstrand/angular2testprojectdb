@@ -2,9 +2,10 @@ var connection = require('../connection');
 
 function Note() {
 
-    this.get = (res) => {
+    this.get = (res, id=null) => {
         connection.acquire((err,con) => {
-            con.query('select * from notetable', (err,result) => {
+            var query = id?' where id = '+id:'';
+            con.query('select * from notetable'+query, (err,result) => {
                 con.release();
                 res.send(result);
             });
