@@ -1,0 +1,1848 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementsByName	method"
+			],
+			[
+				"re",
+				"replace	method"
+			],
+			[
+				"_set",
+				"_selEment	property"
+			],
+			[
+				"se",
+				"_selection	property"
+			],
+			[
+				"create",
+				"createElement	method"
+			],
+			[
+				"S",
+				"START_TO_START	property"
+			],
+			[
+				"END",
+				"END_TO_START	property"
+			],
+			[
+				"_",
+				"_sel	property"
+			],
+			[
+				"ra",
+				"getRangeAt	method"
+			],
+			[
+				"sel",
+				"_selEment	property"
+			],
+			[
+				"set",
+				"selEment	getter"
+			],
+			[
+				"Sel",
+				"SelectionService	alias"
+			],
+			[
+				"Se",
+				"SelectionService	alias"
+			],
+			[
+				"Route",
+				"RouterConfig	alias"
+			],
+			[
+				"Re",
+				"REACTIVE_FORM_DIRECTIVES	alias"
+			],
+			[
+				"Val",
+				"Validators	alias"
+			],
+			[
+				"Con",
+				"NgControl	alias"
+			],
+			[
+				"no",
+				"noteEvent	property"
+			],
+			[
+				"Event",
+				"EventEmitter	alias"
+			],
+			[
+				"value",
+				"valueChanges	property"
+			],
+			[
+				"upda",
+				"updateValueAndValidity	method"
+			],
+			[
+				"note",
+				"noteText	property"
+			],
+			[
+				"not",
+				"noteText	property"
+			],
+			[
+				"current",
+				"currentSubject	property"
+			],
+			[
+				"To",
+				"toString	method"
+			],
+			[
+				"html",
+				"HTMLElement	interface"
+			],
+			[
+				"statu",
+				"statusChangeCallback"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Git/angular2-testproject/src/notes/notes.component.html",
+			"settings":
+			{
+				"buffer_size": 4333,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/notes/notes.component.ts",
+			"settings":
+			{
+				"buffer_size": 2082,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/shared/misc/selection.service.ts",
+			"settings":
+			{
+				"buffer_size": 1545,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/example/example.component.html",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/main.ts",
+			"settings":
+			{
+				"buffer_size": 508,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/shared/note/note.ts",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/shared/note/note.component.html",
+			"settings":
+			{
+				"buffer_size": 482,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "import { Component, OnInit } from '@angular/core';\nimport { ROUTER_DIRECTIVES } from '@angular/router';\n\nimport { HeaderComponent } from '../header/header.component';\nimport { FooterComponent } from '../footer/footer.component';\n\n@Component({\n	moduleId: module.id,\n	selector: 'app-component',\n	templateUrl: 'app.component.html',\n	styleUrls: ['app.component.css'],\n	directives: [ROUTER_DIRECTIVES,\n				HeaderComponent,FooterComponent]\n})\n\nexport class AppComponent implements OnInit{\n	constructor(){\n	}\n\n	ngOnInit(){\n	}\n}\n\n",
+			"file": "/D/Git/angular2-testproject/src/app/app.component.ts",
+			"file_size": 545,
+			"file_write_time": 131123518704400880,
+			"settings":
+			{
+				"buffer_size": 522,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/header/header.component.ts",
+			"settings":
+			{
+				"buffer_size": 487,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/app/app.routes.ts",
+			"settings":
+			{
+				"buffer_size": 552,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/shared/note/note.component.ts",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/index.html",
+			"settings":
+			{
+				"buffer_size": 891,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/shared/note/note.component.scss",
+			"settings":
+			{
+				"buffer_size": 38,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/app/app.component.scss",
+			"settings":
+			{
+				"buffer_size": 195,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/angular2-testproject.sublime-project",
+			"settings":
+			{
+				"buffer_size": 256,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/.gitignore",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "connection.js",
+			"settings":
+			{
+				"buffer_size": 664,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "models/note.js",
+			"settings":
+			{
+				"buffer_size": 1463,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes.js",
+			"settings":
+			{
+				"buffer_size": 412,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 320,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/example/example.component.scss",
+			"settings":
+			{
+				"buffer_size": 605,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/header/header.component.scss",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/notes/notes.component.scss",
+			"settings":
+			{
+				"buffer_size": 734,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/assets/styles/_master.scss",
+			"settings":
+			{
+				"buffer_size": 710,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/footer/footer.component.scss",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/footer/footer.component.html",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/app/app.component.html",
+			"settings":
+			{
+				"buffer_size": 181,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/header/header.component.html",
+			"settings":
+			{
+				"buffer_size": 675,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/home/home.component.ts",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/home/home.component.scss",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/src/home/home.component.html",
+			"settings":
+			{
+				"buffer_size": 48,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/package.json",
+			"settings":
+			{
+				"buffer_size": 1527,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/systemjs.config.js",
+			"settings":
+			{
+				"buffer_size": 1647,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/typings.json",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 446.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 115.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Git/angular2-testproject",
+		"/D/Git/angular2-testproject/src",
+		"/D/Git/angular2-testproject/src/home",
+		"/D/Git/angular2-testproject/src/notes",
+		"/D/Git/angular2-testproject/src/shared",
+		"/D/Git/angular2-testproject/src/shared/note",
+		"/D/Git/angular2testprojectdb",
+		"/D/Git/angular2testprojectdb/models"
+	],
+	"file_history":
+	[
+		"/D/Git/angular2testprojectdb/package.json",
+		"/D/Git/angular2-testproject/src/notes/notes.component.css",
+		"/D/Git/angular2-testproject/src/notes/notes.component.ts",
+		"/D/Git/angular2-testproject/src/notes/.notes.component_BASE_10900.html.swp",
+		"/D/Git/angular2-testproject/src/notes/.notes.component.html.swp",
+		"/D/Git/angular2-testproject/src/notes/notes.component_BACKUP_10900.html",
+		"/D/Git/angular2-testproject/terminal.glue",
+		"/C/Users/dalvenst/AppData/Roaming/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/D/Git/angular2-testproject/src/header/header.component.ts",
+		"/D/Git/angular2-testproject/index.html",
+		"/C/Users/dalvenst/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Git/angular2-testproject/assets/scripts/facebook.js",
+		"/D/Git/angular2-testproject/src/header/header.component.html",
+		"/D/Git/angular2-testproject/src/notes/notes.component.html",
+		"/D/Git/angular2-testproject/src/facebook/facebook.service.ts",
+		"/D/Git/angular2-testproject/ng2-facebook.ts",
+		"/D/Git/angular2-testproject/angular2-testproject.sublime-project",
+		"/D/Git/angular2-testproject/angular2-testproject.sublime-workspace",
+		"/D/Git/angular2-testproject/systemjs.config.js",
+		"/D/Git/angular2-testproject/wepack.config.js",
+		"/D/Git/angular2-testproject/src/aws/aws.config.ts",
+		"/D/Git/angular2-testproject/src/aws/aws.service.ts",
+		"/D/Git/angular2-testproject/src/aws/handle_login.php",
+		"/D/Git/angular2-testproject/src/aws/aws.service.js",
+		"/D/Git/angular2-testproject/src/app/app.component.html",
+		"/D/Git/angular2-testproject/README.md",
+		"/D/Git/angular2-testproject/node_modules/aws-sdk/index.js",
+		"/D/Git/angular2-testproject/node_modules/aws-sdk/package.json",
+		"/D/Git/angular2-testproject/src/app/app.service.js.map",
+		"/D/Git/angular2-testproject/src/notes/notes.component.js",
+		"/D/Git/angular2-testproject/app/body/body.component.ts",
+		"/D/Git/angular2-testproject/assets/_master.scss",
+		"/D/Git/angular2-testproject/app/body/body.component.html",
+		"/D/Git/angular2-testproject/app/body/body.component.scss",
+		"/D/Git/angular2-testproject/node_modules/bs-recipes/recipes/webpack.typescript/readme.md",
+		"/D/Git/angular2-testproject/app.ts",
+		"/D/Git/angular2-testproject/webpack.config.js",
+		"/D/Git/angular2-testproject/src/custom-typings.d.ts",
+		"/D/Git/angular2-testproject/app/example/example.component.html",
+		"/D/Git/angular2-testproject/app/example/example.component.scss",
+		"/D/Git/angular2-testproject/app/header/header.component.scss",
+		"/D/Git/angular2-testproject/app/footer/footer.component.scss",
+		"/D/Git/angular2-testproject/app/footer/footer.component.ts",
+		"/D/Git/angular2-testproject/app/footer/footer.component.html",
+		"/D/Git/angular2-testproject/app/example/example.component.ts",
+		"/D/Git/angular2-testproject/app/main.ts",
+		"/D/Git/angular2-testproject/app/app.component.ts",
+		"/D/Git/angular2-testproject/app/app.service.ts",
+		"/D/Git/angular2-testproject/app/header/header.component.html",
+		"/D/Git/angular2-testproject/app/notes/notes.component.ts",
+		"/D/Git/angular2-testproject/app/header/header.component.ts",
+		"/D/Git/angular2-testproject/app/main.html",
+		"/D/Git/angular2-testproject/app/main.scss",
+		"/D/Git/angular2-testproject/app/app.ts",
+		"/D/Git/angular2-testproject/assets/_reset.scss",
+		"/D/Git/angular2-testproject/app/_variables.scss",
+		"/C/Users/dalvenst/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Git/angular2-testproject/app/main.js",
+		"/D/Git/angular2-testproject/app/main.js.map",
+		"/D/Git/angular2-testproject/app/main.css",
+		"/D/Git/angular2-testproject/package.json",
+		"/D/Git/angular2-testproject/gulpfile.js",
+		"/D/Git/angular2-testproject/app/app.js",
+		"/D/Git/angular2-testproject/app.js",
+		"/D/Git/angular2-testproject/app/header/header.component.css",
+		"/D/Git/angular2-testproject/assets/style.scss",
+		"/C/Users/dalvenst/AppData/Local/Temp/7zEAD54.tmp/package.json",
+		"/D/Git/angular2-testproject/npm-debug.log",
+		"/D/Git/angular2-testproject/config/vendor.ts",
+		"/D/Git/angular2-testproject/config/webpack.common.js",
+		"/D/Git/angular2-testproject/styles.scss",
+		"/D/Git/angular2-testproject/config/webpack.config.js",
+		"/D/Git/angular2-testproject/app/components/header.component/header.component.html",
+		"/D/Git/angular2-testproject/app/components/header.component/header.component.ts",
+		"/D/Git/angular2-testproject/.bootstraprc",
+		"/D/Git/angular2-testproject/header.component/header.component.ts",
+		"/D/Git/angular2-testproject/app/header.component.html",
+		"/D/Git/angular2-testproject/app/header.component.ts",
+		"/D/Git/angular2-testproject/app/app.component.js",
+		"/D/Git/PriceWatcher/index.html",
+		"/D/Git/PriceWatcher/js/site.js",
+		"/D/Git/Example-consuming-WMTS/index.html",
+		"/D/Git/PriceWatcher/js/service.js",
+		"/D/Git/PriceWatcher/js/controllers.js"
+	],
+	"find":
+	{
+		"height": 63.0
+	},
+	"find_in_files":
+	{
+		"height": 169.0,
+		"where_history":
+		[
+			"D:\\Git\\angular2-testproject\\src",
+			"D:\\Git\\angular2-testproject",
+			"D:\\Git\\angular2-testproject\\node_modules",
+			"D:\\Git\\angular2-testproject"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"todo",
+			"app",
+			"());",
+			"_selEment",
+			"value",
+			"value,",
+			"system",
+			"4",
+			"angular2-quickstart",
+			";\n",
+			"d5d5d5",
+			"\\",
+			">\n",
+			"aws-sdk",
+			"webpack.config",
+			"page",
+			"currentPage",
+			"body",
+			"header",
+			"app/app.js",
+			"app/app",
+			"app.js",
+			"'",
+			"}\n",
+			"statusChangeCallback",
+			"login",
+			"Logout",
+			"fb",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"note",
+			"\\\\",
+			"app",
+			"example",
+			"footer",
+			"body",
+			"`"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 17,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Git/angular2-testproject/src/notes/notes.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Git/angular2-testproject/src/notes/notes.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1443,
+								1443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Git/angular2-testproject/src/shared/misc/selection.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Git/angular2-testproject/src/example/example.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Git/angular2-testproject/src/main.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Git/angular2-testproject/src/shared/note/note.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/Git/angular2-testproject/src/shared/note/note.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/Git/angular2-testproject/src/app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/Git/angular2-testproject/src/header/header.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/D/Git/angular2-testproject/src/app/app.routes.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/D/Git/angular2-testproject/src/shared/note/note.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								473,
+								473
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/D/Git/angular2-testproject/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/D/Git/angular2-testproject/src/shared/note/note.component.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/D/Git/angular2-testproject/src/app/app.component.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/D/Git/angular2-testproject/angular2-testproject.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/D/Git/angular2-testproject/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "connection.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								664,
+								664
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "models/note.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								680,
+								680
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/D/Git/angular2-testproject/src/example/example.component.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/D/Git/angular2-testproject/src/header/header.component.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/D/Git/angular2-testproject/src/notes/notes.component.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/D/Git/angular2-testproject/assets/styles/_master.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								710,
+								710
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/D/Git/angular2-testproject/src/footer/footer.component.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/D/Git/angular2-testproject/src/footer/footer.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/D/Git/angular2-testproject/src/app/app.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "/D/Git/angular2-testproject/src/header/header.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "/D/Git/angular2-testproject/src/home/home.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "/D/Git/angular2-testproject/src/home/home.component.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/D/Git/angular2-testproject/src/home/home.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/D/Git/angular2-testproject/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/D/Git/angular2-testproject/systemjs.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								963,
+								963
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "/D/Git/angular2-testproject/typings.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 134.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular2testprojectdb.sublime-project",
+	"replace":
+	{
+		"height": 116.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
