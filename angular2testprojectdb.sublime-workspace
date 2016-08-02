@@ -127,7 +127,7 @@
 			"file": "/D/Git/angular2-testproject/src/notes/notes.component.ts",
 			"settings":
 			{
-				"buffer_size": 2082,
+				"buffer_size": 2690,
 				"line_ending": "Windows"
 			}
 		},
@@ -151,7 +151,7 @@
 			"file": "/D/Git/angular2-testproject/src/main.ts",
 			"settings":
 			{
-				"buffer_size": 508,
+				"buffer_size": 554,
 				"line_ending": "Windows"
 			}
 		},
@@ -234,7 +234,7 @@
 			"file": "/D/Git/angular2-testproject/angular2-testproject.sublime-project",
 			"settings":
 			{
-				"buffer_size": 256,
+				"buffer_size": 203,
 				"line_ending": "Unix"
 			}
 		},
@@ -242,7 +242,7 @@
 			"file": "/D/Git/angular2-testproject/.gitignore",
 			"settings":
 			{
-				"buffer_size": 49,
+				"buffer_size": 59,
 				"line_ending": "Unix"
 			}
 		},
@@ -263,10 +263,26 @@
 			}
 		},
 		{
+			"file": "angular2testprojectdb.sublime-project",
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 14,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "models/note.js",
 			"settings":
 			{
-				"buffer_size": 1463,
+				"buffer_size": 1527,
 				"line_ending": "Windows"
 			}
 		},
@@ -274,12 +290,23 @@
 			"file": "routes.js",
 			"settings":
 			{
-				"buffer_size": 412,
+				"buffer_size": 963,
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"file": "/D/Git/testmedaxel/package.json",
+			"settings":
+			{
+				"buffer_size": 564,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "module.exports = function (grunt) {\n  grunt.initConfig({\n    execute: {\n      target: {\n        src: ['app.js']\n      }\n    },\n    watch: {\n      scripts: {\n        files: ['app.js'],\n        tasks: ['execute'],\n      },\n    }\n  });\n\n  grunt.loadNpmTasks('grunt-contrib-watch');\n  grunt.loadNpmTasks('grunt-execute');\n};",
 			"file": "Gruntfile.js",
+			"file_size": 337,
+			"file_write_time": 131123734348485361,
 			"settings":
 			{
 				"buffer_size": 320,
@@ -378,7 +405,7 @@
 			"file": "/D/Git/angular2-testproject/package.json",
 			"settings":
 			{
-				"buffer_size": 1527,
+				"buffer_size": 1554,
 				"line_ending": "Unix"
 			}
 		},
@@ -386,7 +413,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 403,
+				"buffer_size": 286,
 				"line_ending": "Unix"
 			}
 		},
@@ -481,17 +508,12 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Git/angular2-testproject",
-		"/D/Git/angular2-testproject/src",
-		"/D/Git/angular2-testproject/src/home",
-		"/D/Git/angular2-testproject/src/notes",
-		"/D/Git/angular2-testproject/src/shared",
-		"/D/Git/angular2-testproject/src/shared/note",
 		"/D/Git/angular2testprojectdb",
 		"/D/Git/angular2testprojectdb/models"
 	],
 	"file_history":
 	[
+		"/D/Git/testmedaxel/axel.js",
 		"/D/Git/angular2testprojectdb/package.json",
 		"/D/Git/angular2-testproject/src/notes/notes.component.css",
 		"/D/Git/angular2-testproject/src/notes/notes.component.ts",
@@ -650,7 +672,7 @@
 	"groups":
 	[
 		{
-			"selected": 17,
+			"selected": 22,
 			"sheets":
 			[
 				{
@@ -686,7 +708,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 26,
+					"stack_index": 29,
 					"type": "text"
 				},
 				{
@@ -695,7 +717,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2082,
+						"buffer_size": 2690,
 						"regions":
 						{
 						},
@@ -717,7 +739,7 @@
 						"translation.y": 300.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -741,13 +763,15 @@
 						{
 							"open_with_edit": true,
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
 							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 120.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 27,
+					"stack_index": 30,
 					"type": "text"
 				},
 				{
@@ -775,7 +799,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 34,
+					"stack_index": 37,
 					"type": "text"
 				},
 				{
@@ -784,7 +808,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 508,
+						"buffer_size": 554,
 						"regions":
 						{
 						},
@@ -804,7 +828,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
@@ -820,8 +844,8 @@
 						"selection":
 						[
 							[
-								40,
-								40
+								0,
+								0
 							]
 						],
 						"settings":
@@ -833,7 +857,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -864,7 +888,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
@@ -900,7 +924,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 29,
+					"stack_index": 32,
 					"type": "text"
 				},
 				{
@@ -929,7 +953,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 24,
+					"stack_index": 27,
 					"type": "text"
 				},
 				{
@@ -958,7 +982,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
@@ -996,7 +1020,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
@@ -1026,7 +1050,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 28,
+					"stack_index": 31,
 					"type": "text"
 				},
 				{
@@ -1055,7 +1079,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 25,
+					"stack_index": 28,
 					"type": "text"
 				},
 				{
@@ -1083,7 +1107,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
@@ -1092,14 +1116,14 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 256,
+						"buffer_size": 203,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								252,
+								203,
 								197
 							]
 						],
@@ -1107,13 +1131,13 @@
 						{
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
@@ -1122,7 +1146,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 49,
+						"buffer_size": 59,
 						"regions":
 						{
 						},
@@ -1141,7 +1165,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
@@ -1157,8 +1181,8 @@
 						"selection":
 						[
 							[
-								405,
-								405
+								293,
+								293
 							]
 						],
 						"settings":
@@ -1170,7 +1194,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -1201,30 +1225,95 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
 					"buffer": 18,
-					"file": "models/note.js",
+					"file": "angular2testprojectdb.sublime-project",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1463,
+						"buffer_size": 198,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								680,
-								680
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "models/note.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
 							]
 						],
 						"settings":
 						{
 							"open_with_edit": true,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1234,20 +1323,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 19,
+					"buffer": 21,
 					"file": "routes.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 412,
+						"buffer_size": 963,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								355,
-								355
+								506,
+								506
 							]
 						],
 						"settings":
@@ -1255,17 +1344,51 @@
 							"open_with_edit": true,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
+					"buffer": 22,
+					"file": "/D/Git/testmedaxel/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
 					"file": "Gruntfile.js",
 					"semi_transient": false,
 					"settings":
@@ -1292,11 +1415,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 21,
+					"buffer": 24,
 					"file": "/D/Git/angular2-testproject/src/example/example.component.scss",
 					"semi_transient": false,
 					"settings":
@@ -1315,6 +1438,8 @@
 						"settings":
 						{
 							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
 							"typescript_plugin_format_options":
 							{
 								"convertTabsToSpaces": true,
@@ -1326,11 +1451,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 30,
+					"stack_index": 33,
 					"type": "text"
 				},
 				{
-					"buffer": 22,
+					"buffer": 25,
 					"file": "/D/Git/angular2-testproject/src/header/header.component.scss",
 					"semi_transient": false,
 					"settings":
@@ -1354,11 +1479,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 25,
 					"type": "text"
 				},
 				{
-					"buffer": 23,
+					"buffer": 26,
 					"file": "/D/Git/angular2-testproject/src/notes/notes.component.scss",
 					"semi_transient": false,
 					"settings":
@@ -1390,11 +1515,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 33,
+					"stack_index": 36,
 					"type": "text"
 				},
 				{
-					"buffer": 24,
+					"buffer": 27,
 					"file": "/D/Git/angular2-testproject/assets/styles/_master.scss",
 					"semi_transient": false,
 					"settings":
@@ -1418,11 +1543,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
-					"buffer": 25,
+					"buffer": 28,
 					"file": "/D/Git/angular2-testproject/src/footer/footer.component.scss",
 					"semi_transient": false,
 					"settings":
@@ -1447,11 +1572,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 32,
+					"stack_index": 35,
 					"type": "text"
 				},
 				{
-					"buffer": 26,
+					"buffer": 29,
 					"file": "/D/Git/angular2-testproject/src/footer/footer.component.html",
 					"semi_transient": false,
 					"settings":
@@ -1475,11 +1600,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 35,
+					"stack_index": 38,
 					"type": "text"
 				},
 				{
-					"buffer": 27,
+					"buffer": 30,
 					"file": "/D/Git/angular2-testproject/src/app/app.component.html",
 					"semi_transient": false,
 					"settings":
@@ -1509,11 +1634,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
-					"buffer": 28,
+					"buffer": 31,
 					"file": "/D/Git/angular2-testproject/src/header/header.component.html",
 					"semi_transient": false,
 					"settings":
@@ -1545,11 +1670,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 26,
 					"type": "text"
 				},
 				{
-					"buffer": 29,
+					"buffer": 32,
 					"file": "/D/Git/angular2-testproject/src/home/home.component.ts",
 					"semi_transient": false,
 					"settings":
@@ -1575,11 +1700,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 30,
+					"buffer": 33,
 					"file": "/D/Git/angular2-testproject/src/home/home.component.scss",
 					"semi_transient": false,
 					"settings":
@@ -1604,11 +1729,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
-					"buffer": 31,
+					"buffer": 34,
 					"file": "/D/Git/angular2-testproject/src/home/home.component.html",
 					"semi_transient": false,
 					"settings":
@@ -1633,16 +1758,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 32,
+					"buffer": 35,
 					"file": "/D/Git/angular2-testproject/package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1527,
+						"buffer_size": 1554,
 						"regions":
 						{
 						},
@@ -1656,36 +1781,38 @@
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 33,
+					"buffer": 36,
 					"file": "package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 403,
+						"buffer_size": 286,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								347,
-								347
+								243,
+								243
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1695,7 +1822,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 34,
+					"buffer": 37,
 					"file": "/D/Git/angular2-testproject/systemjs.config.js",
 					"semi_transient": false,
 					"settings":
@@ -1721,11 +1848,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 35,
+					"buffer": 38,
 					"file": "/D/Git/angular2-testproject/typings.json",
 					"semi_transient": false,
 					"settings":
@@ -1749,7 +1876,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 31,
+					"stack_index": 34,
 					"type": "text"
 				}
 			]
