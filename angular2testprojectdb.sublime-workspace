@@ -127,7 +127,7 @@
 			"file": "/D/Git/angular2-testproject/src/notes/notes.component.ts",
 			"settings":
 			{
-				"buffer_size": 2690,
+				"buffer_size": 2719,
 				"line_ending": "Windows"
 			}
 		},
@@ -151,7 +151,7 @@
 			"file": "/D/Git/angular2-testproject/src/main.ts",
 			"settings":
 			{
-				"buffer_size": 554,
+				"buffer_size": 573,
 				"line_ending": "Windows"
 			}
 		},
@@ -175,7 +175,7 @@
 			"contents": "import { Component, OnInit } from '@angular/core';\nimport { ROUTER_DIRECTIVES } from '@angular/router';\n\nimport { HeaderComponent } from '../header/header.component';\nimport { FooterComponent } from '../footer/footer.component';\n\n@Component({\n	moduleId: module.id,\n	selector: 'app-component',\n	templateUrl: 'app.component.html',\n	styleUrls: ['app.component.css'],\n	directives: [ROUTER_DIRECTIVES,\n				HeaderComponent,FooterComponent]\n})\n\nexport class AppComponent implements OnInit{\n	constructor(){\n	}\n\n	ngOnInit(){\n	}\n}\n\n",
 			"file": "/D/Git/angular2-testproject/src/app/app.component.ts",
 			"file_size": 545,
-			"file_write_time": 131123518704400880,
+			"file_write_time": 131146149819678433,
 			"settings":
 			{
 				"buffer_size": 522,
@@ -194,7 +194,7 @@
 			"file": "/D/Git/angular2-testproject/src/app/app.routes.ts",
 			"settings":
 			{
-				"buffer_size": 552,
+				"buffer_size": 669,
 				"line_ending": "Windows"
 			}
 		},
@@ -234,7 +234,7 @@
 			"file": "/D/Git/angular2-testproject/angular2-testproject.sublime-project",
 			"settings":
 			{
-				"buffer_size": 203,
+				"buffer_size": 389,
 				"line_ending": "Unix"
 			}
 		},
@@ -258,7 +258,7 @@
 			"file": "connection.js",
 			"settings":
 			{
-				"buffer_size": 664,
+				"buffer_size": 731,
 				"line_ending": "Windows"
 			}
 		},
@@ -295,10 +295,34 @@
 			}
 		},
 		{
+			"file": "/D/Git/angular2-testproject/node_modules/jquery-textfill/source/jquery.textfill.js",
+			"settings":
+			{
+				"buffer_size": 9123,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/node_modules/jquery/dist/jquery.js",
+			"settings":
+			{
+				"buffer_size": 263767,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Git/angular2-testproject/typings/globals/jquery/index.d.ts",
+			"settings":
+			{
+				"buffer_size": 149821,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "/D/Git/testmedaxel/package.json",
 			"settings":
 			{
-				"buffer_size": 564,
+				"buffer_size": 528,
 				"line_ending": "Unix"
 			}
 		},
@@ -357,7 +381,7 @@
 			"file": "/D/Git/angular2-testproject/src/footer/footer.component.html",
 			"settings":
 			{
-				"buffer_size": 95,
+				"buffer_size": 113,
 				"line_ending": "Windows"
 			}
 		},
@@ -373,7 +397,7 @@
 			"file": "/D/Git/angular2-testproject/src/header/header.component.html",
 			"settings":
 			{
-				"buffer_size": 675,
+				"buffer_size": 777,
 				"line_ending": "Windows"
 			}
 		},
@@ -405,7 +429,7 @@
 			"file": "/D/Git/angular2-testproject/package.json",
 			"settings":
 			{
-				"buffer_size": 1554,
+				"buffer_size": 1630,
 				"line_ending": "Unix"
 			}
 		},
@@ -413,15 +437,15 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 286,
-				"line_ending": "Unix"
+				"buffer_size": 287,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "/D/Git/angular2-testproject/systemjs.config.js",
 			"settings":
 			{
-				"buffer_size": 1647,
+				"buffer_size": 1793,
 				"line_ending": "Windows"
 			}
 		},
@@ -429,7 +453,7 @@
 			"file": "/D/Git/angular2-testproject/typings.json",
 			"settings":
 			{
-				"buffer_size": 262,
+				"buffer_size": 335,
 				"line_ending": "Unix"
 			}
 		}
@@ -513,6 +537,10 @@
 	],
 	"file_history":
 	[
+		"/D/Git/angular2-testproject/assets/scripts/jquery.textfill.min.d.ts",
+		"/D/Git/angular2-testproject/typings/globals/core-js/index.d.ts",
+		"/D/Git/angular2-testproject/typings/globals/jquery/index.d.ts",
+		"/D/Git/angular2-testproject/typings/index.d.ts",
 		"/D/Git/testmedaxel/axel.js",
 		"/D/Git/angular2testprojectdb/package.json",
 		"/D/Git/angular2-testproject/src/notes/notes.component.css",
@@ -619,6 +647,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"fadetoggle",
+			"show",
+			"$.",
+			"fn.show",
+			"show",
+			"options",
 			"todo",
 			"app",
 			"());",
@@ -694,6 +728,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true,
@@ -708,7 +743,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 29,
+					"stack_index": 32,
 					"type": "text"
 				},
 				{
@@ -717,7 +752,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2690,
+						"buffer_size": 2719,
 						"regions":
 						{
 						},
@@ -730,6 +765,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true,
@@ -739,7 +775,7 @@
 						"translation.y": 300.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
@@ -761,6 +797,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"tab_size": 4,
@@ -771,7 +808,7 @@
 						"translation.y": 120.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 30,
+					"stack_index": 33,
 					"type": "text"
 				},
 				{
@@ -793,13 +830,14 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 37,
+					"stack_index": 40,
 					"type": "text"
 				},
 				{
@@ -808,19 +846,20 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 554,
+						"buffer_size": 573,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								443,
-								443
+								0,
+								0
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"use_tab_stops": false
 						},
@@ -828,7 +867,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
@@ -850,6 +889,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"use_tab_stops": false
 						},
@@ -857,7 +897,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
@@ -879,6 +919,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
@@ -888,7 +929,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
@@ -910,6 +951,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"translate_tabs_to_spaces": false,
 							"typescript_plugin_format_options":
@@ -924,7 +966,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 32,
+					"stack_index": 35,
 					"type": "text"
 				},
 				{
@@ -946,6 +988,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"use_tab_stops": false
 						},
@@ -953,7 +996,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 27,
+					"stack_index": 30,
 					"type": "text"
 				},
 				{
@@ -962,7 +1005,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 552,
+						"buffer_size": 669,
 						"regions":
 						{
 						},
@@ -975,6 +1018,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"use_tab_stops": false
 						},
@@ -982,7 +1026,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 24,
+					"stack_index": 27,
 					"type": "text"
 				},
 				{
@@ -1004,6 +1048,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"tab_size": 2,
@@ -1020,7 +1065,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
@@ -1042,6 +1087,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -1050,7 +1096,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 31,
+					"stack_index": 34,
 					"type": "text"
 				},
 				{
@@ -1072,6 +1118,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
 						},
@@ -1079,7 +1126,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 28,
+					"stack_index": 31,
 					"type": "text"
 				},
 				{
@@ -1101,13 +1148,14 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
@@ -1116,7 +1164,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 203,
+						"buffer_size": 389,
 						"regions":
 						{
 						},
@@ -1129,6 +1177,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": false
@@ -1137,7 +1186,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
@@ -1159,13 +1208,14 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
@@ -1181,12 +1231,13 @@
 						"selection":
 						[
 							[
-								293,
-								293
+								116,
+								75
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
@@ -1194,7 +1245,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -1203,19 +1254,20 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 664,
+						"buffer_size": 731,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								664,
-								664
+								0,
+								731
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
@@ -1247,6 +1299,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
@@ -1254,7 +1307,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
@@ -1276,13 +1329,14 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -1298,12 +1352,13 @@
 						"selection":
 						[
 							[
-								321,
-								321
+								326,
+								293
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 4,
@@ -1319,7 +1374,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -1335,12 +1390,13 @@
 						"selection":
 						[
 							[
-								506,
-								506
+								509,
+								509
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
@@ -1356,32 +1412,39 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 22,
-					"file": "/D/Git/testmedaxel/package.json",
+					"file": "/D/Git/angular2-testproject/node_modules/jquery-textfill/source/jquery.textfill.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 564,
+						"buffer_size": 9123,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								564,
-								564
+								1125,
+								1125
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 380.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1389,6 +1452,97 @@
 				},
 				{
 					"buffer": 23,
+					"file": "/D/Git/angular2-testproject/node_modules/jquery/dist/jquery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191893,
+								191903
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 144134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/D/Git/angular2-testproject/typings/globals/jquery/index.d.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 149821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80654,
+								80658
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 36014.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/D/Git/testmedaxel/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
 					"file": "Gruntfile.js",
 					"semi_transient": false,
 					"settings":
@@ -1406,6 +1560,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
@@ -1415,11 +1570,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 24,
+					"buffer": 27,
 					"file": "/D/Git/angular2-testproject/src/example/example.component.scss",
 					"semi_transient": false,
 					"settings":
@@ -1437,70 +1592,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"typescript_plugin_format_options":
-							{
-								"convertTabsToSpaces": true,
-								"indentSize": 4,
-								"tabSize": 4
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 33,
-					"type": "text"
-				},
-				{
-					"buffer": 25,
-					"file": "/D/Git/angular2-testproject/src/header/header.component.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 191,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								37,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 25,
-					"type": "text"
-				},
-				{
-					"buffer": 26,
-					"file": "/D/Git/angular2-testproject/src/notes/notes.component.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 734,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38,
-								0
-							]
-						],
-						"settings":
-						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true,
@@ -1519,7 +1611,73 @@
 					"type": "text"
 				},
 				{
-					"buffer": 27,
+					"buffer": 28,
+					"file": "/D/Git/angular2-testproject/src/header/header.component.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "/D/Git/angular2-testproject/src/notes/notes.component.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
 					"file": "/D/Git/angular2-testproject/assets/styles/_master.scss",
 					"semi_transient": false,
 					"settings":
@@ -1537,17 +1695,18 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 26,
 					"type": "text"
 				},
 				{
-					"buffer": 28,
+					"buffer": 31,
 					"file": "/D/Git/angular2-testproject/src/footer/footer.component.scss",
 					"semi_transient": false,
 					"settings":
@@ -1565,6 +1724,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -1572,16 +1732,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 35,
+					"stack_index": 38,
 					"type": "text"
 				},
 				{
-					"buffer": 29,
+					"buffer": 32,
 					"file": "/D/Git/angular2-testproject/src/footer/footer.component.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 95,
+						"buffer_size": 113,
 						"regions":
 						{
 						},
@@ -1594,17 +1754,18 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 38,
+					"stack_index": 41,
 					"type": "text"
 				},
 				{
-					"buffer": 30,
+					"buffer": 33,
 					"file": "/D/Git/angular2-testproject/src/app/app.component.html",
 					"semi_transient": false,
 					"settings":
@@ -1622,6 +1783,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"typescript_plugin_format_options":
 							{
@@ -1634,16 +1796,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
-					"buffer": 31,
+					"buffer": 34,
 					"file": "/D/Git/angular2-testproject/src/header/header.component.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 675,
+						"buffer_size": 777,
 						"regions":
 						{
 						},
@@ -1656,6 +1818,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true,
@@ -1670,11 +1833,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 26,
+					"stack_index": 29,
 					"type": "text"
 				},
 				{
-					"buffer": 32,
+					"buffer": 35,
 					"file": "/D/Git/angular2-testproject/src/home/home.component.ts",
 					"semi_transient": false,
 					"settings":
@@ -1692,6 +1855,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"use_tab_stops": false
@@ -1700,11 +1864,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
-					"buffer": 33,
+					"buffer": 36,
 					"file": "/D/Git/angular2-testproject/src/home/home.component.scss",
 					"semi_transient": false,
 					"settings":
@@ -1722,6 +1886,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
 						},
@@ -1729,11 +1894,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 25,
 					"type": "text"
 				},
 				{
-					"buffer": 34,
+					"buffer": 37,
 					"file": "/D/Git/angular2-testproject/src/home/home.component.html",
 					"semi_transient": false,
 					"settings":
@@ -1751,6 +1916,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
@@ -1758,106 +1924,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 35,
-					"file": "/D/Git/angular2-testproject/package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1554,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								1527
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 36,
-					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 286,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								243,
-								243
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 37,
-					"file": "/D/Git/angular2-testproject/systemjs.config.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1647,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								963,
-								963
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
 					"buffer": 38,
-					"file": "/D/Git/angular2-testproject/typings.json",
+					"file": "/D/Git/angular2-testproject/package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 262,
+						"buffer_size": 1630,
 						"regions":
 						{
 						},
@@ -1870,13 +1946,107 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "/D/Git/angular2-testproject/systemjs.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								963,
+								963
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "/D/Git/angular2-testproject/typings.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 34,
+					"stack_index": 37,
 					"type": "text"
 				}
 			]

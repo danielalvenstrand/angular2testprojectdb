@@ -7,7 +7,8 @@ function Note() {
             var query = id?' where id = '+id:'';
             con.query('select * from notetable'+query, (err,result) => {
                 con.release();
-                res.send(result);
+                if (err) res.send({status: 1, message: 'Could not get note(s)'});
+                else res.send(result);
             });
         });
     };

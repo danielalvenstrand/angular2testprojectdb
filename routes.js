@@ -1,4 +1,5 @@
 var note = require('./models/note');
+var googleplaces = require('./models/googleplaces');
 
 module.exports = {
   configure: (app) => {
@@ -36,6 +37,11 @@ module.exports = {
     // DELETE NOTE
     app.delete('/api/note/:id/', (req, res) => {
       note.delete(req.params.id, res);
+    });
+
+    // GET PLACES
+    app.post('/api/googleplaces/', (req, res) => {
+      googleplaces.getLoc(req, res);
     });
 
   }
